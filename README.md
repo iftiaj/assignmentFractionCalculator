@@ -1,5 +1,7 @@
 # assignmentFractionCalculator
 
+#full marks
+
 #This is a python assignment for the following problem:
 
 This program takes two fractional inputs and produces an output in the form of fraction representation for any of the four arithmetic operations. The four operations are as follows: addition (+), subtraction (-), multiplication (*), and division (/). 
